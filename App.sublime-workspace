@@ -1,0 +1,283 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"searchange"
+			],
+			[
+				"CA",
+				"Card"
+			],
+			[
+				"funn",
+				"funnFunction"
+			],
+			[
+				"fun",
+				"funFunction"
+			],
+			[
+				"get",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"material the",
+				"Material Theme: Activate theme"
+			],
+			[
+				"package control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/雅傑/Desktop/new/src/index.css",
+		"/C/Users/雅傑/Desktop/new/src/robots.js",
+		"/C/Users/雅傑/Desktop/new/src/Card.js",
+		"/C/Users/雅傑/Desktop/new/src/Cardlist.js",
+		"/C/Users/雅傑/Desktop/new/src/SearchBox.js",
+		"/C/Users/雅傑/Desktop/new/SideBarFolders/SideBarFolders.py",
+		"/C/Users/雅傑/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/雅傑/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/雅傑/Desktop/new/src/aaa.js",
+		"/C/Users/雅傑/Desktop/new/src/index.js",
+		"/C/Users/雅傑/Desktop/new/src/App.js",
+		"/C/Users/雅傑/Desktop/new/src/SeachBox.js",
+		"/C/Users/雅傑/Desktop/new/src/serviceWorker.js",
+		"/C/Users/雅傑/Desktop/develop lesson/robofriends/.gitignore",
+		"/C/Users/雅傑/Desktop/develop lesson/robofriends/README.md",
+		"/C/Users/雅傑/Desktop/develop lesson/ES10-Exercise.js",
+		"/C/Users/雅傑/Desktop/develop lesson/robofriends/package-lock.json",
+		"/C/Users/雅傑/Desktop/網路範例.js",
+		"/C/Users/雅傑/Desktop/develop lesson/robofriends/package.json",
+		"/C/Users/雅傑/Desktop/file.html",
+		"/C/Users/雅傑/Desktop/develop lesson/advanced-looping-exercise.js",
+		"/C/Users/雅傑/Desktop/develop lesson/130/試.html",
+		"/C/Users/雅傑/Desktop/develop lesson/130/script.js",
+		"/C/Users/雅傑/Desktop/develop lesson/DOM-selectors.txt",
+		"/C/Users/雅傑/Desktop/develop lesson/exercise1.js",
+		"/C/Users/雅傑/Desktop/develop lesson/138.js",
+		"/C/Users/雅傑/Desktop/develop lesson/142.js",
+		"/C/Users/雅傑/Desktop/develop lesson/exercise1-SOLUTIONS.js",
+		"/C/Users/雅傑/Desktop/develop lesson/exercise2.js",
+		"/C/Users/雅傑/Desktop/develop lesson/exercise4.txt",
+		"/C/Users/雅傑/Desktop/develop lesson/exercise3.txt",
+		"/C/Users/雅傑/Desktop/develop lesson/script.js",
+		"/C/Users/雅傑/Desktop/develop lesson/130.html",
+		"/C/Users/雅傑/Desktop/develop lesson/21.html",
+		"/C/Users/雅傑/Desktop/develop lesson/index.html",
+		"/C/Users/雅傑/Desktop/develop lesson/exercise1.txt",
+		"/C/Users/雅傑/Desktop/develop lesson/exercise2-SOLUTIONS.txt",
+		"/C/Users/雅傑/Desktop/develop lesson/exercise2.txt",
+		"/C/Users/雅傑/Desktop/develop lesson/__MACOSX/._exercise2.txt",
+		"/C/Users/雅傑/Desktop/develop lesson/__MACOSX/._index.html",
+		"/C/Users/雅傑/Desktop/develop lesson/__MACOSX/._about.html",
+		"/C/Users/雅傑/Desktop/develop lesson/__MACOSX/._login.html",
+		"/C/Users/雅傑/Desktop/develop lesson/37.html",
+		"/C/Users/雅傑/Desktop/develop lesson/371.html",
+		"/C/Users/雅傑/Desktop/web/3e/3e.py",
+		"/C/Users/雅傑/Desktop/web/3e/base.html",
+		"/C/Users/雅傑/Desktop/web/4a/4.py",
+		"/C/Users/雅傑/Desktop/web/4a/templates/index.html",
+		"/C/Users/雅傑/Desktop/web/4a/templates/500.html",
+		"/C/Users/雅傑/Desktop/web/4a/templates/base.html",
+		"/C/Users/雅傑/Desktop/web/3e/index.html",
+		"/C/Users/雅傑/Desktop/web/3a/hello.py",
+		"/C/Users/雅傑/Desktop/web/3d/template/base.html",
+		"/C/Users/雅傑/Desktop/web/3c/33.py",
+		"/C/Users/雅傑/Desktop/hello.py",
+		"/C/Users/雅傑/Desktop/web/4a/templates/user.html",
+		"/C/Users/雅傑/Desktop/web/3c/templates/base.html",
+		"/C/Users/雅傑/Desktop/web/3c/templates/404.html",
+		"/C/Users/雅傑/Desktop/web/3c/templates/500.html",
+		"/C/Users/雅傑/Desktop/web/3c/templates/user.html",
+		"/C/Users/雅傑/Desktop/web/3a/templates/user.html",
+		"/C/Users/雅傑/Desktop/web/3a/templates/index.html",
+		"/C/Users/雅傑/Desktop/web/3c/templates/index.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 176.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 76.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
